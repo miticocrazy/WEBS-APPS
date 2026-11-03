@@ -1,0 +1,14 @@
+<?php
+define('DB_NAME', 'u516073851_crazyhq');
+define('DB_USER', 'u516073851_crazyhq');
+define('DB_PASS', 'Ch0c9857c7bc14ba0e48a988b6Q9');
+define('SETUP_KEY', '1430e729809b67e9d2a4285ca2f5dae128e0feef920c7b64');
+define('ADMIN_NAME', 'Paulo');
+define('VAPID_PUBLIC', 'BKQ1XrNyzu8nMvEgnN2DoZtZJuCLJsPFS8T84cUCF4UODeI50rA49IRSUYqOoPlqDHIApdEy87-LqCr2BJ4V8IY');
+define('VAPID_PRIVATE_PEM', <<<'PEM'
+-----BEGIN EC PRIVATE KEY-----
+MHcCAQEEIIp43ER6CQ4vK+egBlrmH/rg+pWgfJuRTei+cfrV4137oAoGCCqGSM49
+AwEHoUQDQgAEpDVes3LO7ycy8SCc3YOhm1km4Ismw8VLxPzhxQIXhQ4N4jnSsDj0
+hFJRio6g+WoMcgCl0TLzv4uoKvYEnhXwhg==
+-----END EC PRIVATE KEY-----
+PEM);
